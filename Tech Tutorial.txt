@@ -1,4 +1,5 @@
 Tech Tutorials
+
 MERN Stack Developer
 Video Tutorial
 https://youtu.be/ORyi6tTMNqE
@@ -77,6 +78,7 @@ https://youtu.be/srvUrASNj0s
 
 
 Javascript
+
 Playlist
 https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR
 https://youtube.com/playlist?list=PLzdWZT-ZJD0_IqetEOq2FxjQucklQi9KG -Pending   
@@ -105,6 +107,78 @@ https://youtu.be/5b2VtgR2ULA
 https://youtu.be/8u1o-OmOeGQ
 https://youtu.be/J2P7TN_-AeQ
 
+,,,,,,,
+.........................................................
+
+JS_Syllabus:-- https://youtube.com/playlist?list=PLzdWZT-ZJD0_IqetEOq2FxjQucklQi9KG
+
+Namestey_JS:-- https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+
+JS Top 25 Interview Quations:-- https://youtu.be/OEQpRTXfxoo
+
+JavaScript Interview Questions InterviewBit:--   https://www.interviewbit.com/javascript-interview-questions/
+
+Coding Artist-JS_Projects:-- https://youtube.com/playlist?list=PLNCevxogE3fgy0pAzVccadWKaQp9iHspz
+
+JS_Full-Course:-- https://youtu.be/lGmRnu--iU8
+
+--------------------------------------------------------------------------------------
+
+websites:
+=========
+w3_School:-- https://www.w3schools.com/js/default.asp
+
+java t point:-- https://www.javatpoint.com/javascript-tutorial
+
+Coding Artist:-- https://codingartistweb.com/
+
+
+Practice:
+=========
+
+InterviewBit:-- https://www.interviewbit.com/courses/fast-track-js/
+
+------------------------------------------------------------------
+
+JS Documentation:
+=================
+
+MDN:-- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+DevDocs:-- https://devdocs.io/javascript/
+
+JavaScript Info:-- https://javascript.info/
+
+Word Press:-- https://developer.wordpress.org/coding-standards/inline-documentation-standards/javascript/
+
+---------------------------------------------------------------------
+
+CheatSheet:
+===========
+
+QuickRef.ME JS:-- https://quickref.me/javascript
+
+OverAPI.com JS:-- https://overapi.com/javascript
+
+Cheatography JS:-- https://cheatography.com/davechild/cheat-sheets/javascript/
+
+jQuery:-- https://makeawebsitehub.com/jquery-mega-cheat-sheet/
+
+jQuery Coding Cheat Sheet:-- https://www.codeconquest.com/cheat-sheets/jquery-cheat-sheet/
+
+--------------------------------------------------------------------
+
+Book's:
+=======
+
+Programming Notes for Professionals books Goal Kicker:-- https://books.goalkicker.com/
+
+JS:-- https://books.goalkicker.com/JavaScriptBook/
+
+jQuery®:-- https://books.goalkicker.com/jQueryBook/
+
+.........................................................
+,,,,,,,,
 
 Typescript
 Video Tutorial
@@ -328,4 +402,10 @@ Video Tutorial
 https://youtu.be/zN8YNNHcaZc
 https://youtu.be/UTQp6mvhb0Y
 https://youtu.be/g1vy03ZY5mM
+
+Road Maps :
+https://roadmap.sh/
+
+Cheat Sheets :
+https://overapi.com/
 
