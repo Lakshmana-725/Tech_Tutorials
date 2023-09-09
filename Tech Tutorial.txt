@@ -332,11 +332,51 @@ Video Tutorial
 https://www.youtube.com/live/6EukZDFE_Zg?feature=share
 
 
-Devops
+Devops :-
+DevOps is a combination of software development (dev) and operations (ops).
+https://orangematter.solarwinds.com/wp-content/uploads/2022/03/DevOps-lifecycle-capabilities-1024x621.png
+
+Road Map :- 
+https://roadmap.sh/devops 
+https://youtu.be/BPCXN8m1-Uc 
+https://youtu.be/Q9kObzCF6Rc       
+https://youtu.be/7pT0oviBZk0      
+https://youtu.be/IcvXvm8stvQ?si=JFlBh7N3l51a1Bjg  
+https://medium.com/javarevisited/the-2018-devops-roadmap-31588d8670cb
+
 Video Tutorial
 https://youtu.be/N1fYTi-edNk
 https://www.youtube.com/live/eI2_y2I2E2s?feature=share
 https://www.youtube.com/live/ixJ9ZfmyGZQ?feature=share
+Simplelearn:--
+https://youtu.be/jgvFCkvYnQg
+https://youtu.be/aEZlZfMCp1I?si=ADWaAKQWb3kNCBfT
+
+Playlist :- 
+https://youtube.com/playlist?list=PLGv2x6mk3qVGtaShCx19ZFk0DX3rohDAU&si=DRZymWXeRENY-lNt
+https://youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&si=z14V2ILBzvlnepuH
+
+
+Learning_websites :--
+https://en.wikipedia.org/wiki/DevOps
+https://www.javatpoint.com/devops
+https://www.atlassian.com/devops
+https://www.devopsschool.com/
+https://medium.com/javarevisited/10-free-online-courses-to-learn-devops-for-beginners-9feadb644f50
+https://dev.to/signoz/top-10-platforms-to-learn-about-devops-3eb5
+https://about.gitlab.com/topics/devops/
+
+1) Coursera :--
+https://www.coursera.org/learn/intro-to-devops
+https://www.coursera.org/courses?query=devops
+
+cheet_sheets:- 
+1. https://devhints.io/ , https://devhints.io/awscli
+2. https://overapi.com/
+3. https://cheatography.com/tag/devops/ , https://cheatography.com/hapuchu/cheat-sheets/devops/
+4. https://digital.ai/learn/devops-periodic-table/ , https://digital.ai/wp-content/themes/yoko-digitalai-child/periodic-table/self-contained/table.php
+5. https://www.devopsschool.com/cheatsheets/
+
 
 Git git hub
 Video Tutorial
